@@ -1,18 +1,28 @@
 # css-to-stylus
-Atom package which convert your CSS to Stylus.
+
+> Atom package which convert your CSS to Stylus.
 
 ## Install
 
-`cmd+,` > Install > 'css-to-stylus'
+Run in your terminal app:
 
-## Use
+```
+apm install css-to-stylus
+```
 
-Select the text
-* right click > 'Convert CSS to Stylus'
-* Packages > 'CSS to Stylus' > 'Convert CSS to Stylus'
-* ctrl+alt+o
+Or install manualy:
 
-> files which you changing must be `.css` or `.styl`
+`⌘+,` (or `Ctrl-,`) → _Install_ → `css-to-stylus`
+
+## Usage
+
+Select the content of a file:
+
+* Right click > _Convert CSS to Stylus_
+* Packages > _CSS to Stylus_ > _Convert CSS to Stylus_
+* `⌘-⌥-o` (or `ctrl+alt+o`)
+
+**Note:** Files, you're trying to convert, must have `.css` or `.styl` extension.
 
 ## Examples
 
