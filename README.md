@@ -1,18 +1,6 @@
-# css-to-stylus-atom
-Atom package which convert your css to stylus.
+# css-to-stylus
+Atom package which convert your CSS to Stylus.
 
-# Regex
+# Install
 
-`/[ ]*{/g` - find `{` or ` {` or `   {` etc
-
-
-`/:[ ]{1,}/g` - find `: ` or `:  ` etc
-
-
-`/:/g` - find alone `:`
-
-
-`/;/g` - find alone `;`
-
-
-`/}/g` - find `}`
+# Examples
