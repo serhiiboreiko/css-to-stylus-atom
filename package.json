@@ -1,0 +1,18 @@
+{
+  "name": "css-to-stylus",
+  "main": "./lib/css-to-stylus",
+  "version": "0.0.0",
+  "description": "Convert CSS to Stylus.",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "css-to-stylus:toggle"
+  },
+  "repository": "https://github.com/jestersunborn/css-to-stylus-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "css2stylus": "^0.5.0"
+  }
+}
