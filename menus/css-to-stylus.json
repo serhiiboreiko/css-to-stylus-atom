@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Convert CSS to Stylus",
+        "command": "css-to-stylus:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "CSS to Stylus",
+          "submenu": [
+            {
+              "label": "Convert CSS to Stylus",
+              "command": "css-to-stylus:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
