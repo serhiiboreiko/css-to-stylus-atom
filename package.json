@@ -1,7 +1,7 @@
 {
   "name": "css-to-stylus",
   "main": "./lib/css-to-stylus",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert CSS to Stylus.",
   "keywords": [],
   "activationCommands": {
