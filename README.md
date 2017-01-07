@@ -1,6 +1,6 @@
 # css-to-stylus
 
-> Atom package which convert your CSS to Stylus.
+> Atom package which converts your CSS to Stylus.
 
 ## Install
 
